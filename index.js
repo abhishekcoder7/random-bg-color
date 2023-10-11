@@ -19,7 +19,7 @@ let assignColor = ()=>{
         body.style.backgroundColor=x;
         screen.style.backgroundColor=x;
         screen.innerHTML = x;
-    },1000)
+    },1300)
 }
 
 generate.addEventListener('click',()=>{
